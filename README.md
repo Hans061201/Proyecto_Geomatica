@@ -4,9 +4,9 @@ Análisis espacial en Python de los reportes ciudadanos de acumulación de resid
 
 **Pregunta de investigación:** ¿dónde se concentran los reportes ciudadanos de acumulación de residuos en Ate y qué relación espacial guardan con la red de contenedores municipales?
 
-> Proyecto del curso **Geomática Ambiental** · E.P. de Ingeniería Ambiental · Universidad Nacional Mayor de San Marcos
 
-![Puntos calientes Getis-Ord Gi*](resultados/F6_gi_star.png)
+
+<img width="606" height="291" alt="image" src="https://github.com/user-attachments/assets/b5d700a0-bb9d-46aa-838e-18c2aebdf317" />
 
 ## Resultados principales
 
